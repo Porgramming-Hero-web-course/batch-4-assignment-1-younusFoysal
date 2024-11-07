@@ -1,4 +1,4 @@
-<h1 align="center">Why are Type Guards Necessary? <br> Discuss Various Types of Type Guards and Their Use Cases.</h1>
+<h1 align="center">Why are Type Guards Necessary? <br> Discuss Various Types of Type Guards <br> and Their Use Cases.</h1>
 
 Static typing in TypeScript makes code safer and clearer,
 but type guards are needed to work with union types and complicated objects. 
