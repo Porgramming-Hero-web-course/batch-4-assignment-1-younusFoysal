@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f01b4c25-e3ea-4c7b-8825-a6fd94515e94" name="Changes" comment="Git init">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/problem-2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem-2.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-1.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem-1.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +33,18 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2oTq4qDhRQZl4FcH8ZrBMhSRDsq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Node.js.problem-1.js.executor": "Run",
+    "Node.js.problem-2.js.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "D:/WebStrom Projects/Level2/batch-4-assignment-1-younusFoysal",
@@ -74,7 +79,8 @@
       <updated>1730903724361</updated>
       <workItem from="1730903725412" duration="425000" />
       <workItem from="1730904164207" duration="1214000" />
-      <workItem from="1730920650320" duration="1839000" />
+      <workItem from="1730920650320" duration="3054000" />
+      <workItem from="1730956902694" duration="1264000" />
     </task>
     <task id="LOCAL-00001" summary="Git init">
       <option name="closed" value="true" />
@@ -91,6 +97,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Git init" />
     <option name="LAST_COMMIT_MESSAGE" value="Git init" />
   </component>
