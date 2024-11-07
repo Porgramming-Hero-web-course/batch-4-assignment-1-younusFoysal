@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f01b4c25-e3ea-4c7b-8825-a6fd94515e94" name="Changes" comment="Problem 3 solve updated">
+    <list default="true" id="f01b4c25-e3ea-4c7b-8825-a6fd94515e94" name="Changes" comment="Problem 6 solved">
+      <change afterPath="$PROJECT_DIR$/src/problem-7.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -12,6 +13,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,7 +91,7 @@
       <workItem from="1730904164207" duration="1214000" />
       <workItem from="1730920650320" duration="3054000" />
       <workItem from="1730956902694" duration="5558000" />
-      <workItem from="1730992617968" duration="2858000" />
+      <workItem from="1730992617968" duration="4419000" />
     </task>
     <task id="LOCAL-00001" summary="Git init">
       <option name="closed" value="true" />
@@ -133,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730994295838</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Problem 6 solved">
+      <option name="closed" value="true" />
+      <created>1730996661457</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730996661457</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +163,7 @@
     <MESSAGE value="Problem 4 Solved" />
     <MESSAGE value="Problem 5 Solved" />
     <MESSAGE value="Problem 3 solve updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 3 solve updated" />
+    <MESSAGE value="Problem 6 solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 6 solved" />
   </component>
 </project>
